@@ -42,7 +42,7 @@ define(function() {
     	}
     	
     	perm(arr, []);
-    	console.log(answers)
+    	
     	return answers;
     }
   };
